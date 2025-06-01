@@ -20,7 +20,7 @@ Interactive charts showing attrition by age, department, and marital status
 Clean, user-friendly dashboard layout with insightful visual storytelling
 
 🖼️ Screenshot:
-<a href="/files/hr_analytics.csv" download>Download HR Analytics Dataset</a>
+<a href="https://github.com/KhansuliPrachi/PowerBI--Dashboard-1/blob/main/HR_Analytics.csv" download>Dataset</a>
   View Dashboard
  ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBI--Dashboard-1/blob/main/HR%20Analytics%20Cover%20page.jpg)
  ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBI--Dashboard-1/blob/main/HR%20Analytics%20Page%201%20.jpg)
