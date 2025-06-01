@@ -21,6 +21,8 @@ Clean, user-friendly dashboard layout with insightful visual storytelling
 
 🖼️ Screenshot:
 
- ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBI--Dashboard-1/blob/main/HR%20Analytics%20Cover%20page.jpg))
+ ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBI--Dashboard-1/blob/main/HR%20Analytics%20Cover%20page.jpg)
+ ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBI--Dashboard-1/blob/main/HR%20Analytics%20Page%201%20.jpg)
+ ![Dashboard Screenshot](https://github.com/KhansuliPrachi/PowerBI--Dashboard-1/blob/main/HR%20Analytics%20Cover%20page.jpg)
 
 
